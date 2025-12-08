@@ -1,0 +1,10 @@
+# Ignore all Excel files
+*.xlsx
+*.xls
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
